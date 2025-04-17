@@ -1,0 +1,26 @@
+{
+  "name": "dev-currency-convertor",
+  "version": "1.0.0",
+  "description": "npm package that convert currency",
+  "keywords": [
+    "npm"
+  ],
+  "homepage": "https://github.com/Shivanshagrawall/dev-currency-convertor#readme",
+  "bugs": {
+    "url": "https://github.com/Shivanshagrawall/dev-currency-convertor/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shivanshagrawall/dev-currency-convertor.git"
+  },
+  "license": "Apache-2.0",
+  "author": "Shivansh Agrawal",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
