@@ -21,6 +21,7 @@
     "test": "npm run test"
   },
   "dependencies": {
-    "@everapi/freecurrencyapi-js": "^1.0.1"
+    "@everapi/freecurrencyapi-js": "^1.0.1",
+    "dotenv": "^16.5.0"
   }
 }
